@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emanuelluque
 - 👀 I’m interested in learning learning learning
-- 🌱 I’m currently learning basic stuff, just starting on html css etc    
+- 🌱 I’m currently learning basic stuff  
 - 📫 How to reach me ema.dod@gmail.com
 
 <!---
